@@ -1,0 +1,1 @@
+Running scheduled command: "M:\wamp64\bin\php\php7.2.4\php.exe" "artisan" word:day > "NUL" 2>&1
